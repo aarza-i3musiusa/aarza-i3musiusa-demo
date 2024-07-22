@@ -40,6 +40,32 @@
       }
     }
   ],
+  "usage": [
+    {
+      "key": "1",
+      "name": "Web",
+      "age": 32,
+      "label": "Cancel Auto Pay Enrollements"
+    },
+    {
+      "key": "2",
+      "name": "Web",
+      "age": 2,
+      "label": "All Payments"
+    },
+    {
+      "key": "3",
+      "name": "Web",
+      "age": 67,
+      "label": "Enroll in Budget Making"
+    },
+    {
+      "key": "4",
+      "name": "Web",
+      "age": 34,
+      "label": "Enroll in Paperless Bill"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
