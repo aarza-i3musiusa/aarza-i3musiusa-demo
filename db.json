@@ -5,6 +5,41 @@
       "title": "hello"
     }
   ],
+  "users": [
+    {
+      "id": 1,
+      "statistics": {
+        "logins": 6002,
+        "registrations": 100,
+        "serviceOrders": 2455,
+        "payments": 6644,
+        "enrollments": 6044478,
+        "requests": 13125
+      }
+    },
+    {
+      "id": 2,
+      "statistics": {
+        "logins": 102,
+        "registrations": 8800,
+        "serviceOrders": 2455,
+        "payments": 744,
+        "enrollments": 67,
+        "requests": 12
+      }
+    },
+    {
+      "id": 3,
+      "statistics": {
+        "logins": 2445,
+        "registrations": 500,
+        "serviceOrders": 891,
+        "payments": 1234,
+        "enrollments": 8900,
+        "requests": 6755
+      }
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
