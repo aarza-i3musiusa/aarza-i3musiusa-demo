@@ -38,6 +38,83 @@
         "enrollments": 8900,
         "requests": 6755
       }
+    },
+    {
+      "id": 4,
+      "statistics": {
+        "logins": 3054,
+        "registrations": 450,
+        "serviceOrders": 1394,
+        "payments": 5120,
+        "enrollments": 35429,
+        "requests": 4920
+      }
+    },
+    {
+      "id": 5,
+      "statistics": {
+        "logins": 1009,
+        "registrations": 720,
+        "serviceOrders": 2700,
+        "payments": 843,
+        "enrollments": 30567,
+        "requests": 1500
+      }
+    },
+    {
+      "id": 6,
+      "statistics": {
+        "logins": 5780,
+        "registrations": 1040,
+        "serviceOrders": 3628,
+        "payments": 6040,
+        "enrollments": 578240,
+        "requests": 7856
+      }
+    },
+    {
+      "id": 7,
+      "statistics": {
+        "logins": 2245,
+        "registrations": 290,
+        "serviceOrders": 1595,
+        "payments": 2145,
+        "enrollments": 67430,
+        "requests": 3492
+      }
+    },
+    {
+      "id": 8,
+      "statistics": {
+        "logins": 8721,
+        "registrations": 1100,
+        "serviceOrders": 4102,
+        "payments": 7203,
+        "enrollments": 128590,
+        "requests": 9294
+      }
+    },
+    {
+      "id": 9,
+      "statistics": {
+        "logins": 3420,
+        "registrations": 850,
+        "serviceOrders": 1824,
+        "payments": 2840,
+        "enrollments": 90245,
+        "requests": 5143
+      }
+    },
+    {
+      "id": 10,
+      "statistics": {
+        "logins": 6540,
+        "registrations": 1290,
+        "serviceOrders": 3210,
+        "payments": 9045,
+        "enrollments": 214789,
+        "requests": 12840
+      }
     }
   ],
   "usage": [
@@ -45,7 +122,7 @@
       "key": "1",
       "name": "Web",
       "age": 32,
-      "label": "Cancel Auto Pay Enrollements"
+      "label": "Cancel Auto Pay Enrollments"
     },
     {
       "key": "2",
@@ -64,6 +141,36 @@
       "name": "Web",
       "age": 34,
       "label": "Enroll in Paperless Bill"
+    },
+    {
+      "key": "5",
+      "name": "Mobile",
+      "age": 21,
+      "label": "Make a Payment"
+    },
+    {
+      "key": "6",
+      "name": "Mobile",
+      "age": 15,
+      "label": "View Payment History"
+    },
+    {
+      "key": "7",
+      "name": "Web",
+      "age": 8,
+      "label": "Update Payment Method"
+    },
+    {
+      "key": "8",
+      "name": "Web",
+      "age": 42,
+      "label": "Cancel Paperless Billing"
+    },
+    {
+      "key": "9",
+      "name": "Mobile",
+      "age": 18,
+      "label": "Enroll in Auto Pay"
     }
   ],
   "profile": {
