@@ -173,6 +173,221 @@
       "label": "Enroll in Auto Pay"
     }
   ],
+  "mockThemes": [
+    {
+      "id": "1",
+      "path": "/dashboard",
+      "theme": {
+        "token": {
+          "colorPrimary": "#1E90FF"
+        },
+        "components": {
+          "Button": {
+            "borderRadius": 8
+          }
+        }
+      }
+    },
+    {
+      "id": "2.1",
+      "path": "/analytics/webusage",
+      "theme": {
+        "token": {
+          "colorPrimary": "#32CD32"
+        },
+        "components": {
+          "Typography": {
+            "fontFamily": "Arial",
+            "titleMarginBottom": 4
+          }
+        }
+      }
+    },
+    {
+      "id": "2.2",
+      "path": "/analytics/logins",
+      "theme": {
+        "token": {
+          "colorPrimary": "#FF6347"
+        },
+        "components": {
+          "DatePicker": {
+            "borderRadius": 6,
+            "colorBorder": "gray"
+          }
+        }
+      }
+    },
+    {
+      "id": "2.3",
+      "path": "/analytics/registrations",
+      "theme": {
+        "token": {
+          "colorPrimary": "#8A2BE2"
+        },
+        "components": {
+          "Input": {
+            "colorBorder": "purple"
+          }
+        }
+      }
+    },
+    {
+      "id": "2.4",
+      "path": "/analytics/service-orders",
+      "theme": {
+        "token": {
+          "colorPrimary": "#FFD700"
+        },
+        "components": {
+          "Menu": {
+            "popupBg": "#FAFAD2"
+          }
+        }
+      }
+    },
+    {
+      "id": "2.5",
+      "path": "/analytics/payments",
+      "theme": {
+        "token": {
+          "colorPrimary": "#FF4500"
+        },
+        "components": {
+          "Typography": {
+            "fontFamily": "Verdana"
+          }
+        }
+      }
+    },
+    {
+      "id": "2.7",
+      "path": "/analytics/cobrowse",
+      "theme": {
+        "token": {
+          "colorPrimary": "#4682B4"
+        },
+        "components": {
+          "Button": {
+            "borderRadius": 10
+          }
+        }
+      }
+    },
+    {
+      "id": "3.1",
+      "path": "/reports/financialreports",
+      "theme": {
+        "token": {
+          "colorPrimary": "#00FF7F"
+        },
+        "components": {
+          "Input": {
+            "colorBorder": "green"
+          }
+        }
+      }
+    },
+    {
+      "id": "3.2",
+      "path": "/team2",
+      "theme": {
+        "token": {
+          "colorPrimary": "#FF1493"
+        },
+        "components": {
+          "Menu": {
+            "groupTitleColor": "pink"
+          }
+        }
+      }
+    },
+    {
+      "id": "4",
+      "path": "/cobrowse",
+      "theme": {
+        "token": {
+          "colorPrimary": "#4169E1"
+        },
+        "components": {
+          "Button": {
+            "borderRadius": 12
+          }
+        }
+      }
+    },
+    {
+      "id": "5.1",
+      "path": "/posts",
+      "theme": {
+        "token": {
+          "colorPrimary": "#00CED1"
+        },
+        "components": {
+          "Typography": {
+            "fontFamily": "Georgia"
+          }
+        }
+      }
+    },
+    {
+      "id": "6",
+      "path": "/payments",
+      "theme": {
+        "token": {
+          "colorPrimary": "#20B2AA"
+        },
+        "components": {
+          "DatePicker": {
+            "borderRadius": 5,
+            "colorBorder": "cyan"
+          }
+        }
+      }
+    },
+    {
+      "id": "7",
+      "path": "/customer-requests",
+      "theme": {
+        "token": {
+          "colorPrimary": "#9370DB"
+        },
+        "components": {
+          "Input": {
+            "colorBorder": "darkviolet"
+          }
+        }
+      }
+    },
+    {
+      "id": "8",
+      "path": "/rebate-management",
+      "theme": {
+        "token": {
+          "colorPrimary": "#F08080"
+        },
+        "components": {
+          "Button": {
+            "borderRadius": 4
+          }
+        }
+      }
+    },
+    {
+      "id": "9",
+      "path": "/content-management",
+      "theme": {
+        "token": {
+          "colorPrimary": "#6495ED"
+        },
+        "components": {
+          "Typography": {
+            "fontFamily": "Times New Roman"
+          }
+        }
+      }
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
