@@ -388,6 +388,15 @@
       }
     }
   ],
+  "policies": [
+    { "role": "admin", "resource": "dashboard", "action": "list" },
+    { "role": "admin", "resource": "analytics", "action": "view" },
+    { "role": "admin", "resource": "webUsage", "action": "(list)|(export)" },
+    { "role": "admin", "resource": "logins", "action": "list" },
+    { "role": "admin", "resource": "userManagement", "action": "list" },
+    { "role": "user", "resource": "dashboard", "action": "list" },
+    { "role": "user", "resource": "analytics", "action": "view" }
+  ],
   "profile": {
     "name": "typicode"
   }
