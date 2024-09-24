@@ -167,7 +167,6 @@
       "label": "Enroll in Auto Pay"
     }
   ],
-
   "policies": [
     { "role": "admin", "resource": "dashboard", "action": "list" },
     { "role": "admin", "resource": "analytics", "action": "view" },
